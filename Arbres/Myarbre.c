@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 
 typedef struct arbre Arbre;
 typedef struct list List;
